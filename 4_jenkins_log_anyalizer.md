@@ -1,4 +1,4 @@
-Perfect 👍 Here’s your **Automation #4: Jenkins Log Analyzer & Failure Report Generator (Python)** — fully formatted as a clean, professional `README.md` entry (consistent with your previous automations):
+
 
 ---
 
